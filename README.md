@@ -24,6 +24,5 @@ Cascading Classifiers: Now we can use the relevant features to classify a face f
 
 Usage
 Usage (using haar cascades): python face-detect-haar.py [optional.jpg]
-Usage (using dnn) : python face-detect-dnn.py [optional.jpg]
 
 If only one command line argument is supplied (the program itself e.g. face-detect-haar.py), video stream from the webcam will be used as input. If there are exactly two command line arguments and an image is provided as the second command line argument, the image will be used as input.
