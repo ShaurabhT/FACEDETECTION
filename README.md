@@ -28,3 +28,6 @@ Usage
 Usage (using haar cascades): python face-detect-haar.py [optional.jpg]
 
 If only one command line argument is supplied (the program itself e.g. face-detect-haar.py), video stream from the webcam will be used as input. If there are exactly two command line arguments and an image is provided as the second command line argument, the image will be used as input.
+
+~Shaurabh R. Tuladhar
+
